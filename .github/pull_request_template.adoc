@@ -1,0 +1,18 @@
+# Pull Request template
+Please work through the checklist to submit the PR.
+
+## Link to Pivotal Card
+
+https://www.pivotaltracker.com[#pivotal-card-number]
+
+## Checklist:
+
+- [ ] I have paste the link to my pivotal card above
+- [ ] I have tagged my branch with card # from pivotal
+- [ ] I have updated the CHANGELOG to reflect my changes
+- [ ] I have performed a self-review of my own code
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have descriptive commit message with short title
+- [ ] I have squashed into one commit
+- [ ] I have run `make test-all` locally and fixed any tests that may have broken.
+- [ ] Reviewer/s have signed off
